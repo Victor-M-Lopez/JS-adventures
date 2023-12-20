@@ -1,0 +1,17 @@
+<svg width="27" height="33" viewBox="0 0 27 33" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Paper">
+<g id="Rectangle 1">
+<mask id="path-1-inside-1_5_29" fill="white">
+<path d="M0 2.5C10.2827 -1.21022 15.5 2.5 27 2.5V32.5H19.5L6.5 31L0 32.5V2.5Z"/>
+</mask>
+<path d="M0 2.5C10.2827 -1.21022 15.5 2.5 27 2.5V32.5H19.5L6.5 31L0 32.5V2.5Z" fill="#D9D9D9" stroke="black" mask="url(#path-1-inside-1_5_29)"/>
+</g>
+<rect id="Rectangle 2" x="2" y="5" width="23" height="1" fill="black"/>
+<rect id="Rectangle 3" x="2" y="8" width="23" height="1" fill="black"/>
+<rect id="Rectangle 4" x="2" y="11" width="14" height="1" fill="black"/>
+<rect id="Rectangle 5" width="23" height="1" transform="matrix(1 0 0 -1 2 17)" fill="black"/>
+<rect id="Rectangle 7" width="23" height="1" transform="matrix(1 0 0 -1 2 20)" fill="black"/>
+<rect id="Rectangle 8" width="5" height="1" transform="matrix(1 0 0 -1 20 26)" fill="black"/>
+<rect id="Rectangle 6" width="4" height="1" transform="matrix(1 0 0 -1 20 28)" fill="black"/>
+</g>
+</svg>
